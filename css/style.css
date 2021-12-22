@@ -45,6 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
+  position: relative;
   padding: 100px 50px;
 }
 
@@ -738,8 +739,8 @@ h4 {
   margin-top: 24px;
 }
 
-.white {
-  color: #ffffff !important;
+.black {
+  color: #000000 !important;
 }
 
 .portfolio-thumb {
@@ -783,12 +784,12 @@ h4 {
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .ltc-white {
